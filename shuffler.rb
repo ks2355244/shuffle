@@ -1,5 +1,6 @@
 def shuffle(array)
   # Implement the shuffle method
+  array.rand == :sorted_array
 end
 
 
